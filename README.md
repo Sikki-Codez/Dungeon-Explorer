@@ -39,8 +39,8 @@ This project was built to showcase proficiency in **Standard C++** without relia
 ### Installation & Build
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Cpp-Roguelike-Dungeon.git](https://github.com/YOUR_USERNAME/Cpp-Roguelike-Dungeon.git)
-    cd Cpp-Roguelike-Dungeon
+    git clone [https://github.com/Sikki-Codez/Dungeon-Explorer.git](https://github.com/Sikki-Codez/Dungeon-Explorer.git)
+    cd Dungeon-Explorer
     ```
 
 2.  **Compile the source code:**
