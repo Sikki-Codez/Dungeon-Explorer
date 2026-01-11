@@ -1,0 +1,8 @@
+# Ignore build files
+*.o
+*.exe
+DungeonGame
+
+# Ignore system files
+.vscode/
+.DS_Store
