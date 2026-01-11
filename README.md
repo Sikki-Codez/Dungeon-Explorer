@@ -79,7 +79,9 @@ The codebase is modularized to ensure separation of concerns:
 * [ ] Support for multiple dungeon floors (Stairs).
 
 ## 👨‍💻 Author
-**Raja Hamza Sikandar** Student, Ghulam Ishaq Khan Institute of Science and Technology (GIKI)
+**Raja Hamza Sikandar**
+<small>Student</small> 
+<small>Ghulam Ishaq Khan Institute of Science and Technology (GIKI)</small>
 
 ## 📝 License
 This project is open-source and available under the **MIT License**.
