@@ -78,5 +78,8 @@ The codebase is modularized to ensure separation of concerns:
 * [ ] Implement **Save/Load** functionality using file serialization.
 * [ ] Support for multiple dungeon floors (Stairs).
 
+## 👨‍💻 Author
+**Raja Hamza Sikandar** Student, Ghulam Ishaq Khan Institute of Science and Technology (GIKI)
+
 ## 📝 License
 This project is open-source and available under the **MIT License**.
